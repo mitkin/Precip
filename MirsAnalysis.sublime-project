@@ -2,16 +2,27 @@
 	"folders":
 	[
 		{
+			"file_include_patterns":
+			[
+				"*.env",
+				"*.sh"
+			],
 			"follow_symlinks": true,
-			"path": "/home/m300036/Env",
-			"file_include_patterns": ["*.env","*.sh"]
+			"path": "/home/m300036/Env"
 		},
 		{
+			"file_include_patterns":
+			[
+				"*.py",
+				"*.env",
+				"*.sh"
+			],
+			"folder_include_patterns":
+			[
+				"*"
+			],
 			"follow_symlinks": true,
-			"path": "/data/mount/data_share/projects/mirs/subprojects/compareExps",
-			"file_include_patterns": ["*.py", "*.env", "*.sh"],
-			"folder_include_patterns": ["."]
-		
+			"path": "/home/m300036/Precip"
 		}
 	]
 }

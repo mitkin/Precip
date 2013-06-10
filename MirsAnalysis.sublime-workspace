@@ -29,7 +29,7 @@
 	[
 		{
 			"contents": "# CompareMirs\n\n# mount: sshfs login.zmaw.de:/data/share/mpiles/TRS/$USER /data/mount/data_share\n# project: /data/mount/data_share/projects/mirs/subprojects/compareExps\n\n",
-			"file": "mirsCompareResults.env",
+			"file": "/home/m300036/Env/mirsCompareResults.env",
 			"file_size": 168,
 			"file_write_time": 130153104651380210,
 			"settings":
@@ -39,10 +39,10 @@
 			}
 		},
 		{
-			"file": "untitled.sublime-project",
+			"file": "MirsAnalysis.sublime-project",
 			"settings":
 			{
-				"buffer_size": 200,
+				"buffer_size": 301,
 				"line_ending": "Unix"
 			}
 		}
@@ -50,7 +50,7 @@
 	"build_system": "Packages/User/latex.sublime-build",
 	"command_palette":
 	{
-		"height": 72.0,
+		"height": 212.0,
 		"selected_items":
 		[
 			[
@@ -66,7 +66,7 @@
 				":w - Save"
 			]
 		],
-		"width": 449.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -91,6 +91,9 @@
 	},
 	"file_history":
 	[
+		"/home/m300036/Env/MirsAnalysis.sublime-project",
+		"/home/m300036/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/m300036/Env/untitled.sublime-project",
 		"/home/m300036/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
 		"/home/m300036/svn/RemoteSensing/mikhail/projects/thesis/v01/Thesis.bib",
 		"/data/workspace/svn/RemoteSensing/user/mikhail/projects/thesis/v01/Chapters/NOTES",
@@ -107,7 +110,6 @@
 		"/data/workspace/svn/RemoteSensing/user/mikhail/projects/thesis/v01/Chapters/SamplingError.tex",
 		"/data/workspace/svn/RemoteSensing/user/mikhail/projects/thesis/v01/Figures/Figures.tex",
 		"/data/workspace/svn/RemoteSensing/user/mikhail/projects/thesis/v01/Chapters/Tables.tex",
-		"/home/m300036/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/data/workspace/svn/RemoteSensing/user/mikhail/projects/thesis/v01/Chapters/Conclusions.tex",
 		"/home/m300036/.config/sublime-text-3/Packages/User/latex.sublime-build",
 		"/home/m300036/svn/RemoteSensing/mikhail/projects/pycmbs-cmsaf/docs/Minutes_EvaCliModMarch.txt",
@@ -197,7 +199,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "mirsCompareResults.env",
+					"file": "/home/m300036/Env/mirsCompareResults.env",
 					"semi_transient": false,
 					"settings":
 					{
@@ -224,19 +226,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "untitled.sublime-project",
+					"file": "MirsAnalysis.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 200,
+						"buffer_size": 301,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								183,
+								183
 							]
 						],
 						"settings":

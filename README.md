@@ -1,7 +1,7 @@
 Precip
 ======
 
-PhD precipitation retrieval projet
+PhD precipitation retrieval project
 Collection of environment and convenience scripts for my PhD project
 
 ======
